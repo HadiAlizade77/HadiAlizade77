@@ -146,20 +146,6 @@ systems that are easy to operate.
   <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 </p>
 
----
-
-## Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [opencode-browser-v2](https://github.com/HadiAlizade77/opencode-browser-v2) | Chrome browser automation for OpenCode 2 — drives a real browser over the DevTools Protocol (tabs, clicks, forms, screenshots) | TypeScript · CDP · Node.js |
-| [loki-stack-helm-chart](https://github.com/HadiAlizade77/loki-stack-helm-chart) | Helm chart packaging the Loki observability stack for Kubernetes | Kubernetes · Helm |
-| [github-screenshot-action](https://github.com/HadiAlizade77/github-screenshot-action) | GitHub Action that captures page screenshots as part of a workflow | JavaScript · GitHub Actions |
-| [polymarket-copy-trade](https://github.com/HadiAlizade77/polymarket-copy-trade) | Automation for mirroring trades on Polymarket | Python |
-| [MEVN-CRM](https://github.com/HadiAlizade77/MEVN-CRM) | Full-stack CRM example with a documented, Swagger-annotated API | MongoDB · Express · Vue · Node.js |
-| [currencies-exchange](https://github.com/HadiAlizade77/currencies-exchange) | Currency exchange app with a React frontend and Express backend | React · Express |
-
-<sub>More on my <a href="https://github.com/HadiAlizade77?tab=repositories">repositories page</a>.</sub>
 
 ---
 
