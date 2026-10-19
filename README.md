@@ -41,16 +41,18 @@ systems that are easy to operate.
 
 ## Experience
 
-| Role | Company | Focus | Period |
-|---|---|---|---|
-| Senior Full-Stack Developer | LOTEC | Smart City & Industrial IoT | 2026 – Present |
-| Technical Manager | SignumTTE | CAFM & Coworking platforms | 2025 – 2026 |
-| Team Lead & Senior Full-Stack Developer | SignumTTE | CMMS/CAFM at scale | 2023 – 2025 |
-| Senior Full-Stack Engineer | FUTSell | Browser automation platform | 2022 – 2023 |
-| Lead Full-Stack & DevOps Engineer | Rivervale Fleet Management | Fleet platform, Kubernetes migration | 2022 |
-| Senior Full-Stack Developer | Heineken | Campaign automation | 2020 – 2021 |
-
-<sub>Earlier: Traveltagged (UK), Alphaus Clouds (Japan), Nouava, Powergraph — full history on <a href="https://www.linkedin.com/in/hadi-alizadeh-webdev">LinkedIn</a>.</sub>
+| Role | Company | Location | Focus | Period |
+|---|---|---|---|---|
+| Senior Full-Stack Developer | LOTEC | Ankara, Türkiye | Smart City & Industrial IoT · telemetry microservices | Mar 2026 – Present |
+| Technical Manager | SignumTTE | Ankara, Türkiye | CAFM & Coworking platforms · 90+ B2B customers, teams of 14–20 | Jan 2025 – Feb 2026 |
+| Team Lead & Senior Full-Stack Developer | SignumTTE | Ankara, Türkiye | CMMS/CAFM · monolith → 20 microservices, 1M+ daily transactions | May 2023 – Jan 2025 |
+| Senior Full-Stack Engineer | FUTSell | Canada | Browser automation platform · 12K tasks/day, 2,500 concurrent sessions | Oct 2022 – Mar 2023 |
+| Lead Full-Stack & DevOps Engineer | Rivervale Fleet Management | United Kingdom | Fleet platform · Kubernetes migration, Python ETL (500K records/day) | May 2022 – Nov 2022 |
+| Senior Full-Stack Developer | Traveltagged | United Kingdom | Social platform MVP · Jitsi-based messaging SDK, 4K concurrent users | Aug 2021 – Jul 2022 |
+| Senior Full-Stack Developer | Heineken | Netherlands | Campaign automation · 5,000+ concurrent users | Oct 2020 – Jun 2021 |
+| Front-End Developer | Alphaus Clouds | Japan | ERP applications · 4 product launches | Jan 2020 – Jun 2021 |
+| Full-Stack Developer | Nouava | Tehran, Iran | Financial KPI panel · reporting automated from 24h → 1 min | Aug 2018 – May 2020 |
+| Junior Back-End Developer | Powergraph | — | CMS & e-commerce · 9 client projects delivered | Aug 2017 – Aug 2018 |
 
 ## Education
 
