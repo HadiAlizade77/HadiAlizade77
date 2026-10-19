@@ -27,6 +27,8 @@ systems that are easy to operate.
 - **Data** — PostgreSQL, Neo4j, Redis, MongoDB — high-throughput paths at ~20 ms latency
 - **Observability & quality** — OpenTelemetry, ELK, Sentry · Playwright/Cypress · clean architecture at team scale
 
+**Currently:** Senior Full-Stack Developer at **LOTEC** — Smart City & Industrial IoT platforms.
+
 ## Selected impact
 
 - Platform architecture serving **400,000+ users** across B2B SaaS products
@@ -35,6 +37,25 @@ systems that are easy to operate.
 - **1M+ daily transactions** at ~20 ms average latency (GraphQL + Neo4j + Redis + Kafka)
 - Led teams of **5–20 engineers**; mentored engineers into senior and lead roles
 - Incident response time reduced by **50%** with OpenTelemetry + Sentry + ELK observability
+- Owned technical roadmaps, architecture reviews and release trains; introduced platform-wide standards for observability, CI/CD, code review and multi-tenant isolation
+
+## Experience
+
+| Role | Company | Focus | Period |
+|---|---|---|---|
+| Senior Full-Stack Developer | LOTEC | Smart City & Industrial IoT | 2026 – Present |
+| Technical Manager | SignumTTE | CAFM & Coworking platforms | 2025 – 2026 |
+| Team Lead & Senior Full-Stack Developer | SignumTTE | CMMS/CAFM at scale | 2023 – 2025 |
+| Senior Full-Stack Engineer | FUTSell | Browser automation platform | 2022 – 2023 |
+| Lead Full-Stack & DevOps Engineer | Rivervale Fleet Management | Fleet platform, Kubernetes migration | 2022 |
+| Senior Full-Stack Developer | Heineken | Campaign automation | 2020 – 2021 |
+
+<sub>Earlier: Traveltagged (UK), Alphaus Clouds (Japan), Nouava, Powergraph — full history on <a href="https://www.linkedin.com/in/hadi-alizadeh-webdev">LinkedIn</a>.</sub>
+
+## Education
+
+**BSc, Computer Science** — Islamic Azad University · GPA 3.7/4.0 · 2019<br/>
+<sub>Capstone: microservices web application (Node.js, React, Docker, AWS)</sub>
 
 ---
 
@@ -58,6 +79,9 @@ systems that are easy to operate.
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
+  <img alt="BullMQ" src="https://img.shields.io/badge/BullMQ-CC0000?style=flat-square&logo=bullmq&logoColor=white" />
 </p>
 
 **Frontend & Mobile**
@@ -65,6 +89,7 @@ systems that are easy to operate.
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" />
@@ -89,7 +114,10 @@ systems that are easy to operate.
   <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Linkerd" src="https://img.shields.io/badge/Linkerd-2BEDA7?style=flat-square&logo=linkerd&logoColor=black" />
 </p>
+
+<sub>AWS services: RDS · S3 · CloudFront · API Gateway · Lambda · MSK · ECS</sub>
 
 **Observability & testing**
 
