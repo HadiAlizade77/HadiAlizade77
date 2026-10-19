@@ -22,10 +22,10 @@ teams of 5–20 engineers and build **microservice, event-driven systems on AWS 
 Kubernetes**, with a strong bias toward DevOps automation, observability and
 systems that are easy to operate.
 
-- **Backend** — Node.js/NestJS, Python, PHP/Laravel · GraphQL & REST · Kafka, WebSockets, BullMQ
-- **Cloud & DevOps** — AWS (RDS, S3, Lambda, MSK, ECS), Kubernetes, Docker, CI/CD, infrastructure as code
+- **Backend** — Node.js/NestJS, Python, PHP/Laravel · GraphQL & REST/OpenAPI · Kafka, MQTT, WebSockets, BullMQ
+- **Cloud & DevOps** — AWS (RDS, S3, Lambda, MSK, ECS), Kubernetes, Docker, Terraform, Ansible, GitOps (Argo CD), CI/CD
 - **Data** — PostgreSQL, Neo4j, Redis, MongoDB — high-throughput paths at ~20 ms latency
-- **Observability & quality** — OpenTelemetry, ELK, Sentry · Playwright/Cypress · clean architecture at team scale
+- **Observability & quality** — OpenTelemetry, Prometheus, Grafana, ELK, Sentry · Playwright/Cypress, Jest/Vitest
 
 **Currently:** Senior Full-Stack Developer at **LOTEC** — Smart City & Industrial IoT platforms.
 
@@ -78,6 +78,7 @@ systems that are easy to operate.
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
   <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
   <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
   <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
@@ -111,6 +112,9 @@ systems that are easy to operate.
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white" />
+  <img alt="Argo CD" src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
   <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -119,14 +123,25 @@ systems that are easy to operate.
 
 <sub>AWS services: RDS · S3 · CloudFront · API Gateway · Lambda · MSK · ECS</sub>
 
+**IoT & integration**
+
+<p>
+  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+  <img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" />
+</p>
+
 **Observability & testing**
 
 <p>
   <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Elastic Stack" src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" />
   <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 </p>
 
 ---
